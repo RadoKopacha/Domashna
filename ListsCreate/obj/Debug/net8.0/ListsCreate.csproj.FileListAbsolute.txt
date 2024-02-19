@@ -1,0 +1,14 @@
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\Lists\ListsCreate\bin\Debug\net8.0\ListsCreate.exe
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\Lists\ListsCreate\bin\Debug\net8.0\ListsCreate.deps.json
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\Lists\ListsCreate\bin\Debug\net8.0\ListsCreate.runtimeconfig.json
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\Lists\ListsCreate\bin\Debug\net8.0\ListsCreate.dll
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\Lists\ListsCreate\bin\Debug\net8.0\ListsCreate.pdb
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\Lists\ListsCreate\obj\Debug\net8.0\ListsCreate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\Lists\ListsCreate\obj\Debug\net8.0\ListsCreate.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\Lists\ListsCreate\obj\Debug\net8.0\ListsCreate.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\Lists\ListsCreate\obj\Debug\net8.0\ListsCreate.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\Lists\ListsCreate\obj\Debug\net8.0\ListsCreate.dll
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\Lists\ListsCreate\obj\Debug\net8.0\refint\ListsCreate.dll
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\Lists\ListsCreate\obj\Debug\net8.0\ListsCreate.pdb
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\Lists\ListsCreate\obj\Debug\net8.0\ListsCreate.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\Lists\ListsCreate\obj\Debug\net8.0\ref\ListsCreate.dll
