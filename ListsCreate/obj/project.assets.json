@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\STUDENTS-1212-1\\.nuget\\packages\\": {}
+    "C:\\Users\\radol\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\STUDENTS-1212-1\\Documents\\Radoslav 9a\\Lists\\ListsCreate\\ListsCreate.csproj",
+      "projectUniqueName": "C:\\Users\\radol\\Desktop\\Pragramirane\\Domashna02.20\\Domashna\\ListsCreate\\ListsCreate.csproj",
       "projectName": "ListsCreate",
-      "projectPath": "C:\\Users\\STUDENTS-1212-1\\Documents\\Radoslav 9a\\Lists\\ListsCreate\\ListsCreate.csproj",
-      "packagesPath": "C:\\Users\\STUDENTS-1212-1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\STUDENTS-1212-1\\Documents\\Radoslav 9a\\Lists\\ListsCreate\\obj\\",
+      "projectPath": "C:\\Users\\radol\\Desktop\\Pragramirane\\Domashna02.20\\Domashna\\ListsCreate\\ListsCreate.csproj",
+      "packagesPath": "C:\\Users\\radol\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\radol\\Desktop\\Pragramirane\\Domashna02.20\\Domashna\\ListsCreate\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\STUDENTS-1212-1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\radol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -56,12 +61,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
